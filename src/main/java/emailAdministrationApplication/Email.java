@@ -47,6 +47,10 @@ public class Email {
         return blue + "Your Name: " + name +" " + surName + "\nYour Department: " + department +  "\nYour Mail: " + creatNewMail() + "\nYour Password: " + createPassword() + "\nEmail Capacity: " + mailBoxCapacity;
     }
 
+    //follow my github account https://github.com/osmandgn
+
+
+
 
 
 
